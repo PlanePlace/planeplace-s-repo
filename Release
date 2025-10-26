@@ -1,0 +1,13 @@
+Origin: planeplace's repo
+Label: planeplace's repo
+Suite: stable
+Version: 1.0
+Codename: plane place
+Architectures: iphoneos-arm
+Components: main
+Description: for private.
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e  Packages
+ 4059d198768f9f8dc9372dc1c54bc3c3  Packages.bz2
+ 96b01ea3fee93abcd196b4b64c3779bd  Packages.gz
+
